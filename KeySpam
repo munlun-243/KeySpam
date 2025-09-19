@@ -1,0 +1,13 @@
+{
+    "keys": {
+        "KeyVV06": {"type": "permanent"},
+        "Key1": {"type": "trial", "expiry": "2025-08-01T23:59:59", "used": false},
+        "Key2": {"type": "trial", "expiry": "2025-07-13T23:59:59", "used": false},
+        "Key3": {"type": "trial", "expiry": "2025-07-22T23:59:59", "used": false},
+        "Key4": {"type": "trial", "expiry": "2025-07-19T23:59:59", "used": false},
+        "Key5": {"type": "trial", "expiry": "2025-01-29T02:00:00", "used": false},
+        "Key6": {"type": "trial", "expiry": "2025-05-10T23:59:59", "used": false},
+        "Key7": {"type": "trial", "expiry": "2025-09-25T23:59:59", "used": false},
+        "Key8": {"type": "trial", "expiry": "2025-09-20T23:59:59", "used": false}
+    }
+}
