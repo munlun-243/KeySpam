@@ -1,7 +1,7 @@
 {
     "keys": {
         "KeyVV06": {"type": "permanent"},
-        "2026": {"type": "trial", "expiry": "2025-09-10T23:59:59", "used": false},
+        "2026": {"type": "trial", "expiry": "2025-09-30T23:59:59", "used": false},
         "Key2": {"type": "trial", "expiry": "2025-07-13T23:59:59", "used": false},
         "Key3": {"type": "trial", "expiry": "2025-07-22T23:59:59", "used": false},
         "Key4": {"type": "trial", "expiry": "2025-07-19T23:59:59", "used": false},
